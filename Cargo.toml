@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["book_12_io_project"]
